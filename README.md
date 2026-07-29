@@ -15,3 +15,4 @@
 13. git branch -d [newBranch]
 
 14. git remote -v
+15. git clone [url]
