@@ -14,4 +14,4 @@
 12. git merge [branch_name]
 13. git branch -d [newBranch]
 
-14. 
+14. git remote -v
